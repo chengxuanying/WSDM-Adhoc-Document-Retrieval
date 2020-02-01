@@ -6,7 +6,7 @@ This is our solution for [WSDM - DiggSci 2020](http://www.wsdm-conference.org/20
 
 * An end-to-end system with **zero feature engineering**.
 * Performed data cleaning on the dataset according to self-designed saliency-based rules, and removed the redundancy data with an insignificant impact on results, and improved the MAP@3 by 3%. 
-* Designed a novel early stopping strategy for reranking based on the confidence score to **avoid up to 60% unnecessary inference computation** cost of the BERT.
+* Designed a novel early stopping strategy for reranking based on the confidence score to **avoid up to 40% unnecessary inference computation** cost of the BERT.
 * Scores are stable (nearly the same) on the train_val, validation, and test sets.
 
 ### Our Pipeline
@@ -43,7 +43,10 @@ Thanks for [Yanming Shen](http://faculty.dlut.edu.cn/yshen/zh_CN/index.htm), who
 
 * Chi-Yu Yang and Kuei-Chun Huang: [WSDM_SimpleBaseline](https://github.com/steven95421/WSDM_SimpleBaseline)
 * supercoderhawk: [wsdm-digg-2020](https://github.com/supercoderhawk/wsdm-digg-2020)
-* shuliwanwu: [wsdm_cup2020](https://github.com/shuiliwanwu/wsdm_cup2020)
+* shuiliwanwu: [wsdm_cup2020](https://github.com/shuiliwanwu/wsdm_cup2020)
+* just4fun, greedisgood, slowdown and funny: [wsdm2020-solution](https://github.com/wsdm-Teamfunny/wsdm2020-solution)
+* xiong, wzm, Yinxiang Xu, Xiaohao Xu and Yongqiang Liu: [wsdm2020_diggsci](https://github.com/xiong666/wsdm2020_diggsci)
+* Seiya, eclipse, will and ferryman: [wsdm_cup_2020_solution](https://github.com/myeclipse/wsdm_cup_2020_solution)
 
 ### Reference
 
