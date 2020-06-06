@@ -1,6 +1,6 @@
 ## WSDM-Adhoc-Document-Retrieval
 
-This is our solution for [WSDM - DiggSci 2020](http://www.wsdm-conference.org/2020/wsdm-cup-2020.php). We implemented a simple yet robust search pipeline which ranked 2nd in the validation set and 4th in the test set. We won the gold prize at innovation track and bronze prize at dataset track. [[Video](https://vimeo.com/389698304)] [[Slides](https://drive.google.com/open?id=1gr3Trg_3uO0c2waUKdEz9sQUKT9Agdv06dFLqS2t4zw)] 
+This is our solution for [WSDM - DiggSci 2020](http://www.wsdm-conference.org/2020/wsdm-cup-2020.php). We implemented a simple yet robust search pipeline which ranked 2nd in the validation set and 4th in the test set. We won the gold prize at innovation track and bronze prize at dataset track. [[Video](https://vimeo.com/389698304)] [[Slides](https://drive.google.com/open?id=1gr3Trg_3uO0c2waUKdEz9sQUKT9Agdv06dFLqS2t4zw)] [[Report](http://www.wsdm-conference.org/2020/wsdm_cup_reports/Task1_dlutycx.pdf)] 
 
 ### Features
 
