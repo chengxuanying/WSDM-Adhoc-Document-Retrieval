@@ -57,4 +57,6 @@ Thanks for [Yanming Shen](http://faculty.dlut.edu.cn/yshen/zh_CN/index.htm), who
 
 ### Seeking Opportunities
 
-I will be graduated at 2021 from Dalian University of Technology. If you can refer me to any company, please contact me [yingchengsyuan@gmail.com](mailto:yingchengsyuan@gmail.com).
+I will be graduated in the summer of 2021 from Dalian University of Technology. If you can refer me to any company, please contact me [yingchengsyuan@gmail.com](mailto:yingchengsyuan@gmail.com).
+
+
