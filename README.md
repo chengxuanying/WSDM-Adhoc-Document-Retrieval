@@ -54,3 +54,7 @@ Thanks for [Yanming Shen](http://faculty.dlut.edu.cn/yshen/zh_CN/index.htm), who
 1. Nogueira R, Cho K. Passage Re-ranking with BERT[J]. arXiv preprint arXiv:1901.04085, 2019.
 2. Burges C, Shaked T, Renshaw E, et al. Learning to rank using gradient descent[C]//Proceedings of the 22nd International Conference on Machine learning (ICML-05). 2005: 89-96.
 3. Severyn A, Moschitti A. Learning to rank short text pairs with convolutional deep neural networks[C]//Proceedings of the 38th international ACM SIGIR conference on research and development in information retrieval. ACM, 2015: 373-382.
+
+### Seeking Opportunities
+
+I will be graduated at 2021 from Dalian University of Technology. If you can refer me to any company, please contact me [yingchengsyuan@gmail.com](mailto:yingchengsyuan@gmail.com).
